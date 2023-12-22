@@ -3,5 +3,5 @@
 let message = "This is a javascript file";
 
 function func(){
-  crossOriginIsola
+  console.log("This is a test");
 }
