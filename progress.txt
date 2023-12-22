@@ -1,1 +1,1 @@
-Day one: Javascript Statement
+Day one: Javascript Statement, done with javascript comments, now on variables.
